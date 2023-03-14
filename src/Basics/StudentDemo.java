@@ -1,5 +1,5 @@
 package Basics;
-
+//this keyword explained
 public class StudentDemo {
     int rollNumber;
     String name;
