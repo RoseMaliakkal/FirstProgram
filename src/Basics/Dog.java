@@ -3,7 +3,7 @@ package Basics;
 //Object and class explained
 public class Dog {
     String name = "Cia";
-    int age = 4;
+    int age = 3;
     String breed = "Golden Retriever";
 
     public void Barking() {
