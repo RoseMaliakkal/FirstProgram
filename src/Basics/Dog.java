@@ -1,3 +1,5 @@
+package Basics;
+
 //Object and class explained
 public class Dog {
     String name = "Cia";

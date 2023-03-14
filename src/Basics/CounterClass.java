@@ -1,3 +1,5 @@
+package Basics;
+
 public class CounterClass {
     int i = 10;
     static int j = 25;
