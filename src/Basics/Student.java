@@ -8,7 +8,7 @@ public class Student {
 
     public Student(String name, int roll) {
         System.out.println("My name is " + name);
-        System.out.println("My roll nummber is " + roll);
+        System.out.println("My roll number is " + roll);
     }
 
     public static void main(String[] args) {
