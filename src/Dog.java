@@ -1,4 +1,5 @@
-public class DogClassObjectExplain {
+//Object and class explained
+public class Dog {
     String name = "Cia";
     int age = 4;
     String breed = "Golden Retriever";
@@ -8,7 +9,7 @@ public class DogClassObjectExplain {
     }
 
     public static void main(String[] args) {
-        DogClassObjectExplain obj1 = new DogClassObjectExplain();
+        Dog obj1 = new Dog();
         obj1.Barking();
         System.out.println(obj1.name + " is a " + obj1.breed);
         System.out.println(obj1.name + " is " + obj1.age + " months old");
