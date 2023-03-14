@@ -1,5 +1,5 @@
 package Basics;
-
+//static keyword explained
 public class CounterClass {
     int i = 10;
     static int j = 25;
